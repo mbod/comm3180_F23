@@ -107,14 +107,14 @@ No prior programming experience is required. Through this course students will g
 
 ## Textbooks
 
-1.  Knaflic, C.N. (2015) <span class="underline">Storytelling with data: A visualization guide for business professionals</span>, Wiley.
-2.  Williams, S. (2020). <span class="underline">Data Action: Using Data for Public Good</span>. MIT Press.
+1.  Knaflic, C.N. (2015) *Storytelling with data: A visualization guide for business professionals*, Wiley.
+2.  Williams, S. (2020). *Data Action: Using Data for Public Good*. MIT Press.
 
 
 ## References for Python coding
 
--   McGregor, S.E. (2021) <span class="underline">Practical Python Data Wrangling and Data
-    Quality</span>. O'Reilly Media. (This text is available through the Penn
+-   McGregor, S.E. (2021) *Practical Python Data Wrangling and Data
+    Quality*. O'Reilly Media. (This text is available through the Penn
     library <https://learning.oreilly.com/library/view/practical-python-data/9781492091493/>)
 
 
