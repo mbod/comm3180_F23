@@ -1,28 +1,30 @@
 
 
-## COMM3180: <span class="underline">Stories from data</span>: Introduction to programming for data journalism
+# COMM3180: <span class="underline">Stories from data</span>: Introduction to programming for data journalism
 
 
-### Fall 2023:
-
-1.  Tue/Thu 3:30-5:00pm (Room: ASC 109)
-
-2.  Professor: Dr. Matt O'Donnell (he/him/his)
-
-    -   Email: mbod@asc.upenn.edu
-    -   Office Hours: via Zoom (see link in Canvas)
-    -   Specfic times TBA
-        -   But this may vary and I will always try and be available for
-            appointments outside these times if you email with sufficient
-            notice.
-    
-    ---
+## Fall 2023:
 
 
-## IMPORTANT NOTICES
+### Tue/Thu 3:30-5:00pm (Room: ASC 109)
 
 
-### 1. Wearing a mask is **REQUESTED** in this class
+### Professor: Dr. Matt O'Donnell (he/him/his)
+
+-   Email: mbod@asc.upenn.edu
+-   Office Hours: via Zoom (see link in Canvas)
+-   Specfic times TBA
+    -   But this may vary and I will always try and be available for
+        appointments outside these times if you email with sufficient
+        notice.
+
+---
+
+
+# IMPORTANT NOTICES
+
+
+## 1. Wearing a mask is **REQUESTED** in this class
 
 -   To reduce the risk of infection and increase the possibility of
     wellness allowing us to focus on learning and working together, it
@@ -46,7 +48,7 @@
     educational institution) is helpful.
 
 
-### 2. ZOOM AND CLASS RECORDINGS
+## 2. ZOOM AND CLASS RECORDINGS
 
 -   **ZOOM AND CLASS ATTENDANCE WHEN UNWELL** - If you feel sick or are
     showing symptoms of Covid-19, flu or cold then **PLEASE BE
@@ -56,7 +58,7 @@
 ---
 
 
-### Course Description, Goals and Objectives
+## Course Description, Goals and Objectives
 
 Today masses of data are available everywhere, capturing information on just about everything and anything. Related but distinct data streams about newsworthy events and issues &#x2013; including activity from social media and open data sources (eg: The Open Government Initiative) &#x2013; have given rise to a new source for and style of reporting sometimes called Data Journalism. Increasingly, news sites and information portals present visually engaging, dynamic, and interactive stories linked to the underlying data (e.g. The Guardian DataBlog, LA Times Data Desk). The Covid-19 pandemic has amplified this trend.
 
@@ -64,16 +66,22 @@ This course offers an introduction to Python programming for data analysis and v
 
 No prior programming experience is required. Through this course students will gain skills writing Python programs to handle large amounts of data and become familiar with some of the key techniques used by data scientists, which is currently one of the most in-demand jobs.
 
--   This course will provide an introduction to Python programming for collecting, cleaning, describing and analyzing a range
+-   This course will provide an introduction to Python programming for
+    collecting, cleaning, describing and analyzing a range of publicly
+    available datasets, including demographic (e.g., age, race,
+    education levels by geographic area), medical (e.g. Covid infection
+    and vacination, ER intakes for certain conditions like flu, measles,
+    etc), financial (e.g., spending on infrastructure, education, other
+    initatives, income distribution, etc.), event (e.g., crime data,
+    road accidents) and transportation (e.g., usage statistics for
+    public transportation and private schemes, e.g. bike shares).
 
-of publicly available datasets, including demographic (e.g., age, race, education levels by geographic area),
-medical (e.g. Covid infection and vacination, ER intakes for certain conditions like flu, measles, etc),
-financial (e.g., spending on infrastructure, education, other initatives, income distribution, etc.), event (e.g., crime data, road accidents) and
-transportation (e.g., usage statistics for public transportation and private schemes, e.g. bike shares).
-
--   Each week one session will be in lecture form and provide background for the theory and techniques and the second will be a lab session
-
-in which students will work through programming exercises using Jupyter notebooks (a web-based programming environment well suited for data science and class-based assignments). Often there will be a video lecture to watch before the session.
+-   Each week one session will be in lecture form and provide background
+    for the theory and techniques and the second will be a lab session
+    in which students will work through programming exercises using
+    Jupyter notebooks (a web-based programming environment well suited
+    for data science and class-based assignments). Often there will be a
+    video lecture to watch before the session.
 
 -   By completing this course students will:
     -   gain an understanding of how data can be used to support the
@@ -92,25 +100,21 @@ in which students will work through programming exercises using Jupyter notebook
         data
 
 
-## Textbooks and recommended readings
+# Textbooks and recommended readings
 
 
-### Textbooks
+## Textbooks
+
+1.  Knaflic, C.N. (2015) <span class="underline">Storytelling with data: A visualization guide for business professionals</span>, Wiley.
+2.  Williams, S. (2020). <span class="underline">Data Action: Using Data for Public Good</span>. MIT Press.
 
 
-# Knaflic, C.N. (2015) <span class="underline">Storytelling with data: A visualization guide for business professionals</span>, Wiley.
+## References for Python coding
+
+-   McGregor, S.E. (2021) **Practical Python Data Wrangling and Data Quality**. O'Reilly Media. (This text is available through the Penn library [](<https://learning.oreilly.com/library/view/practical-python-data/9781492091493/>))
 
 
-# Williams, S. (2020). <span class="underline">Data Action: Using Data for Public Good</span>. MIT Press.
-
-
-### References for Python coding
-
-
-# McGregor, S.E. (2021) **Practical Python Data Wrangling and Data Quality**. O'Reilly Media. (This text is available through the Penn library [](<https://learning.oreilly.com/library/view/practical-python-data/9781492091493/>))
-
-
-### Recommended reading
+## Recommended reading
 
 -   The two books by Ben Jones in The Data Literacy Series:
     1.  <span class="underline">Data Literacy Fundamentals: Understanding the Power & Value of Data</span>
@@ -121,7 +125,7 @@ in which students will work through programming exercises using Jupyter notebook
 -   Other readings on data journalism and resources for learning Python programming and data analysis will be made available on the class Canvas site and the course github repository.
 
 
-## Assessment
+# Assessment
 
 1.  ****Attend weekly lab sessions and complete the assigned readings and exercises (40%)****
     -   Wednesday class sessions will usually be programming labs. We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. You must have a github account to access the server. If you do not have an account go to <https://github.com/join> and set one up. Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
@@ -137,7 +141,7 @@ in which students will work through programming exercises using Jupyter notebook
 -&#x2014;
 
 
-## Note about learning programming
+# Note about learning programming
 
 -   One of the aims of this class is to help students begin to develop
     data analysis and programming skills that they can use as a part of
@@ -161,13 +165,13 @@ in which students will work through programming exercises using Jupyter notebook
 ---
 
 
-## Schedule
+# Schedule
 
 
-### **NOTE** This is a tentative schedule is will be updated as the course progresses
+## **NOTE** This is a tentative schedule is will be updated as the course progresses
 
 
-### Class structure
+## Class structure
 
 -   Usually each class session will be divided into two parts:
 
@@ -182,9 +186,11 @@ in which students will work through programming exercises using Jupyter notebook
     communicating data.
 
 
-### Week 1 - Introduction
+## Week 1 - Introduction
 
-1.  Tuesday 29 August
 
-2.  Thursday 31 August
+### Tuesday 29 August
+
+
+### Thursday 31 August
 
