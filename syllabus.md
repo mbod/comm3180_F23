@@ -3,7 +3,7 @@
 # COMM3180: <span class="underline">Stories from data</span>: Introduction to programming for data journalism
 
 
-## Fall 2023:
+## Fall 2023
 
 
 ### Tue/Thu 3:30-5:00pm (Room: ASC 109)
@@ -99,6 +99,8 @@ No prior programming experience is required. Through this course students will g
         exercises to collect, clean, analyze, visualize and interpret such
         data
 
+---
+
 
 # Textbooks and recommended readings
 
@@ -111,7 +113,9 @@ No prior programming experience is required. Through this course students will g
 
 ## References for Python coding
 
--   McGregor, S.E. (2021) **Practical Python Data Wrangling and Data Quality**. O'Reilly Media. (This text is available through the Penn library [](<https://learning.oreilly.com/library/view/practical-python-data/9781492091493/>))
+-   McGregor, S.E. (2021) <span class="underline">Practical Python Data Wrangling and Data
+    Quality</span>. O'Reilly Media. (This text is available through the Penn
+    library <https://learning.oreilly.com/library/view/practical-python-data/9781492091493/>)
 
 
 ## Recommended reading
@@ -123,6 +127,8 @@ No prior programming experience is required. Through this course students will g
 -   David Spiegelhalter, <span class="underline">The Art of Statistics: How to Learn from Data</span>. Basic Books (August 17, 2021)
 
 -   Other readings on data journalism and resources for learning Python programming and data analysis will be made available on the class Canvas site and the course github repository.
+
+---
 
 
 # Assessment
@@ -138,7 +144,7 @@ No prior programming experience is required. Through this course students will g
     
     -   We will discuss the expected structure and components of the project. Some elements will be assessed on an individual basis (e.g. in your group you will each be responsible for one of the data sources relevant to your research question and you will carry out the acquisition, inspection, cleaning and exploration steps on that data source) and others will be graded as a group (e.g. the initial and final project presentations and the project blog)
 
--&#x2014;
+---
 
 
 # Note about learning programming
