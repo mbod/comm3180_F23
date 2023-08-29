@@ -5,18 +5,18 @@
 
 ### Fall 2023:
 
-1.  Tue/Thu 3:30-5:00pm\*\*
+1.  Tue/Thu 3:30-5:00pm (Room: ASC 109)
 
-    1.  Professor\*\*: Dr. Matt O'Donnell (he/him/his)
+2.  Professor: Dr. Matt O'Donnell (he/him/his)
+
+    -   Email: mbod@asc.upenn.edu
+    -   Office Hours: via Zoom (see link in Canvas)
+    -   Specfic times TBA
+        -   But this may vary and I will always try and be available for
+            appointments outside these times if you email with sufficient
+            notice.
     
-        -   Email: mbod@asc.upenn.edu
-        -   Office Hours: via Zoom (see link in Canvas)
-        -   Specfic times TBA
-            -   But this may vary and I will always try and be available for
-                appointments outside these times if you email with sufficient
-                notice.
-        
-        ---
+    ---
 
 
 ## IMPORTANT NOTICES
@@ -64,29 +64,32 @@ This course offers an introduction to Python programming for data analysis and v
 
 No prior programming experience is required. Through this course students will gain skills writing Python programs to handle large amounts of data and become familiar with some of the key techniques used by data scientists, which is currently one of the most in-demand jobs.
 
-
-# This course will provide an introduction to Python programming for collecting, cleaning, describing and analyzing a range
+-   This course will provide an introduction to Python programming for collecting, cleaning, describing and analyzing a range
 
 of publicly available datasets, including demographic (e.g., age, race, education levels by geographic area),
 medical (e.g. Covid infection and vacination, ER intakes for certain conditions like flu, measles, etc),
 financial (e.g., spending on infrastructure, education, other initatives, income distribution, etc.), event (e.g., crime data, road accidents) and
 transportation (e.g., usage statistics for public transportation and private schemes, e.g. bike shares).
 
-
-# Each week one session will be in lecture form and provide background for the theory and techniques and the second will be a lab session
+-   Each week one session will be in lecture form and provide background for the theory and techniques and the second will be a lab session
 
 in which students will work through programming exercises using Jupyter notebooks (a web-based programming environment well suited for data science and class-based assignments). Often there will be a video lecture to watch before the session.
 
-
-# By completing this course students will:
-
--   gain an understanding of how data can be used to support the reporting and making of news and other types of storytelling
--   practice skills of making stories by collecting, transforming, visualizing and analyzing publicly available data
-
--   explore the range of various kinds of data now available through initiatives such as Open Government Data initiative (data.gov) and a range of other available and curated data archives
-
--   be exposed to a range of techniques from data journalism, data science and information visualization and understand how they can be used to tell news/media stories
--   gain a basic level of programming proficiency in the Python programming language and have completed a number of programming exercises to collect, clean, analyze, visualize and interpret such data
+-   By completing this course students will:
+    -   gain an understanding of how data can be used to support the
+        reporting and making of news and other types of storytelling
+    -   practice skills of making stories by collecting, transforming,
+        visualizing and analyzing publicly available data
+    -   explore the range of various kinds of data now available through
+        initiatives such as Open Government Data initiative (data.gov) and
+        a range of other available and curated data archives
+    -   be exposed to a range of techniques from data journalism, data
+        science and information visualization and understand how they can
+        be used to tell news/media stories
+    -   gain a basic level of programming proficiency in the Python
+        programming language and have completed a number of programming
+        exercises to collect, clean, analyze, visualize and interpret such
+        data
 
 
 ## Textbooks and recommended readings
