@@ -137,7 +137,7 @@ No prior programming experience is required. Through this course students will g
     -   Wednesday class sessions will usually be programming labs. We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. You must have a github account to access the server. If you do not have an account go to <https://github.com/join> and set one up. Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
     -   Assignments will usually be due at <span class="underline"><span class="underline">11.59 p.m. (EST) on the Friday</span></span> (but this may vary). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is <span class="underline">very</span> important to keep up.
 
-2.  ****Complete a <span class="underline">data story project</span> that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (60%)****
+1.  ****Complete a <span class="underline">data story project</span> that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (60%)****
     -   More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
     
     -   The key steps of the project will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
@@ -199,4 +199,141 @@ No prior programming experience is required. Through this course students will g
 
 
 ### Thursday 31 August
+
+
+## Week 2 -
+
+
+### Tuesday 05 September
+
+
+### Thursday 07 September
+
+
+## Week 3 -
+
+
+### Tuesday 12 September
+
+
+### Thursday 14 September
+
+
+## Week 4 -
+
+
+## ASSIGNMENT 1 DUE - Monday 18 September @ 11.59pm
+
+-   Submit through JupyterHub
+
+
+### Tuesday 19 September
+
+
+### Thursday 21 September
+
+
+### ASSIGNMENT 2 DUE Sunday 24 September @ 11.59pm
+
+
+## Week 5 -
+
+
+### Tuesday 26 September
+
+
+### Thursday 28 September
+
+
+## Week 6 -
+
+
+### Tuesday 03 October
+
+
+### Thursday 05 October
+
+
+## Week 7 -
+
+
+### Tuesday 10 October
+
+
+### Thursday 12 October **NO CLASS FALL BREAK**
+
+
+### NO ASSIGNMENT THIS WEEK
+
+
+## Week 8 -
+
+
+### Tuesday 17 October
+
+
+### Thursday 19 October
+
+
+## Week 9 -
+
+
+### Tuesday 24 October
+
+
+### Thursday 26 October
+
+
+## Week 10 -
+
+
+### Tuesday 31 October
+
+
+### Thursday 02 November
+
+
+## Week 11 -
+
+
+### Tuesday 07 November
+
+
+### Thursday 09 November
+
+
+## Week 12 -
+
+
+### Tuesday 14 November
+
+
+### Thursday 16 November
+
+
+## Week 13 -
+
+
+### Tuesday 21 November
+
+
+### Thursday 23 November **NO CLASS THANKSGIVING**
+
+
+## Week 14 -
+
+
+### Tuesday 28 November
+
+
+### Thursday 30 November
+
+
+## Week 15 -
+
+
+### Tuesday 05 December
+
+
+### Thursday 07 December
 
