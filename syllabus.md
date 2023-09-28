@@ -233,7 +233,7 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 21 September
 
 
-### ASSIGNMENT 2 DUE Sunday 24 September @ 11.59pm
+### ASSIGNMENT 2 DUE Saturday 23 September @ 11.59pm
 
 
 ## Week 5 -
@@ -245,6 +245,9 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 28 September
 
 
+### ASSIGNMENT 3 DUE Saturday 30 September @ 11.59pm
+
+
 ## Week 6 -
 
 
@@ -252,6 +255,9 @@ No prior programming experience is required. Through this course students will g
 
 
 ### Thursday 05 October
+
+
+### ASSIGNMENT 4 DUE Saturday 07 October @ 11.59pm
 
 
 ## Week 7 -
@@ -275,6 +281,9 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 19 October
 
 
+### ASSIGNMENT 5 DUE Saturday 21 October @ 11.59pm
+
+
 ## Week 9 -
 
 
@@ -282,6 +291,9 @@ No prior programming experience is required. Through this course students will g
 
 
 ### Thursday 26 October
+
+
+### ASSIGNMENT 6 DUE Saturday 28 October @ 11.59pm
 
 
 ## Week 10 -
