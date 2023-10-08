@@ -257,19 +257,18 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 05 October
 
 
-### ASSIGNMENT 4 DUE Saturday 07 October @ 11.59pm
-
-
 ## Week 7 -
 
 
-### Tuesday 10 October
+### Tuesday 10 October (Zoom)
+
+-   **NOTE** This class will be a review of the coding and analysis so far. Join from Zoom link in Canvas.
+
+
+### ASSIGNMENT 4 DUE Wednesday 11 October @ 11.59pm
 
 
 ### Thursday 12 October **NO CLASS FALL BREAK**
-
-
-### NO ASSIGNMENT THIS WEEK
 
 
 ## Week 8 -
@@ -331,8 +330,7 @@ No prior programming experience is required. Through this course students will g
 
 ### Thursday 23 November **NO CLASS THANKSGIVING**
 
-
-## Week 14 -
+**\*** Week 14 - 
 
 
 ### Tuesday 28 November
@@ -346,6 +344,10 @@ No prior programming experience is required. Through this course students will g
 
 ### Tuesday 05 December
 
+-   Project Presentations
+
 
 ### Thursday 07 December
+
+-   Project Presentations
 
