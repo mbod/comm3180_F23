@@ -201,7 +201,7 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 31 August
 
 
-## Week 2 -
+## Week 2 - Python Basics (1)
 
 
 ### Tuesday 05 September
@@ -210,7 +210,7 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 07 September
 
 
-## Week 3 -
+## Week 3 - Python Basics (2)
 
 
 ### Tuesday 12 September
@@ -219,7 +219,7 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 14 September
 
 
-## Week 4 -
+## Week 4 - Data structures for data stories
 
 
 ## ASSIGNMENT 1 DUE - Monday 18 September @ 11.59pm
@@ -236,7 +236,7 @@ No prior programming experience is required. Through this course students will g
 ### ASSIGNMENT 2 DUE Saturday 23 September @ 11.59pm
 
 
-## Week 5 -
+## Week 5 - Working with public data
 
 
 ### Tuesday 26 September
@@ -248,7 +248,7 @@ No prior programming experience is required. Through this course students will g
 ### ASSIGNMENT 3 DUE Saturday 30 September @ 11.59pm
 
 
-## Week 6 -
+## Week 6 - Data in tables using Pandas
 
 
 ### Tuesday 03 October
@@ -257,7 +257,7 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 05 October
 
 
-## Week 7 -
+## Week 7 - Pandas (2)
 
 
 ### Tuesday 10 October (Zoom)
@@ -271,19 +271,29 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 12 October **NO CLASS FALL BREAK**
 
 
-## Week 8 -
+## Week 8 - Working with geolocated data
 
 
 ### Tuesday 17 October
 
+-   Introduction to geospatial data
+-   Terminology and concepts
+-   Working with `geopandas`
+
+-   Group project planning
+
 
 ### Thursday 19 October
 
+-   Using `geopandas`
+    -   spatial joins (`sjoin()`)
+    -   spatial aggregation (`dissolve()`)
 
-### ASSIGNMENT 5 DUE Saturday 21 October @ 11.59pm
+
+### ASSIGNMENT 5 DUE Sunday 22 October @ 11.59pm
 
 
-## Week 9 -
+## Week 9 - Getting data from the web
 
 
 ### Tuesday 24 October
@@ -295,7 +305,7 @@ No prior programming experience is required. Through this course students will g
 ### ASSIGNMENT 6 DUE Saturday 28 October @ 11.59pm
 
 
-## Week 10 -
+## Week 10 - More with Geopandas and Open Data
 
 
 ### Tuesday 31 October
@@ -304,7 +314,7 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 02 November
 
 
-## Week 11 -
+## Week 11 - The structure of data stories
 
 
 ### Tuesday 07 November
@@ -313,7 +323,7 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 09 November
 
 
-## Week 12 -
+## Week 12 - Data storytelling projects
 
 
 ### Tuesday 14 November
@@ -322,7 +332,7 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 16 November
 
 
-## Week 13 -
+## Week 13 - Project Planning
 
 
 ### Tuesday 21 November
@@ -330,7 +340,8 @@ No prior programming experience is required. Through this course students will g
 
 ### Thursday 23 November **NO CLASS THANKSGIVING**
 
-**\*** Week 14 - 
+
+## Week 14 - Data acquisition and cleaning
 
 
 ### Tuesday 28 November
@@ -339,7 +350,7 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 30 November
 
 
-## Week 15 -
+## Week 15 - Data exploration and question asking
 
 
 ### Tuesday 05 December
@@ -350,4 +361,9 @@ No prior programming experience is required. Through this course students will g
 ### Thursday 07 December
 
 -   Project Presentations
+
+
+## Sunday 24 December @ 11.59pm - Data Project Due
+
+-   Submit through Jupyterhub
 
